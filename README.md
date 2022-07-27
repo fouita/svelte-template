@@ -10,10 +10,16 @@ This template should help get you started developing with Svelte on Fouita.
 
 This template is made to create svelte components that will be used into any website
 
+## How to use
+```bash
+$npx degit fouita/svelte-template my-app
+$cd my-app
+$npm i
+```
+
 ## Run locally
 
 ```bash
-$npm i
 $npm run dev
 ```
 
